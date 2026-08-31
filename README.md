@@ -168,11 +168,3 @@ Recomputed on every `GET /match/:poNumber` call from current stored documents:
 - `GET /api-docs` → Interactive Swagger UI Documentation
 
 ---
-
-## 🤖 AI Assistants Used
-- **Google Antigravity / Gemini 3.6 Flash (Medium)**: Used for architecture planning, schema design, document extraction prompt engineering, and code generation.
-
----
-
-## 📄 License & Author
-Built for Full-Stack Developer Assessment.
