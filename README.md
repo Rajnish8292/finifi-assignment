@@ -4,6 +4,14 @@ A full-stack procurement reconciliation application built with **Next.js (App Ro
 
 ---
 
+## Screenshots
+
+![Screenshot 1](./screenshots/image-1.png)
+![Screenshot 2](./screenshots/image-2.png)
+![Screenshot 3](./screenshots/image-3.png)
+![Screenshot 4](./screenshots/image-4.png)
+![Screenshot 5](./screenshots/image-5.png)
+
 ## 🌟 Overview & Key Features
 
 In procurement, a single purchase is documented across three stages:
