@@ -1,0 +1,43 @@
+{
+  "poNumber": "CI4PO05788",
+  "status": "matched",
+  "overallReasons": [],
+  "documentsFound": {
+    "hasPO": true,
+    "poCount": 1,
+    "grnCount": 1,
+    "invoiceCount": 1
+  },
+  "itemMatches": [
+    {
+      "itemKey": "master:67c29bc811a01234567890ab",
+      "skuMasterId": "67c29bc811a01234567890ab",
+      "skuErpCode": "11423",
+      "name": "psm Cheesy Spicy Veg Momos 24.0 Pieces",
+      "mappedSkuName": "psm Cheesy Spicy Veg Momos 24.0 Pieces",
+      "eanCode": "FG-P-F-0503",
+      "hsnCode": "19022010",
+      "uom": "PKT",
+      "poQty": 50,
+      "grnQty": 50,
+      "invoiceQty": 50,
+      "unitPrice": 220.762,
+      "agreedRate": 220.762,
+      "unitMrp": 305.00,
+      "skuMrp": 305.00,
+      "grossAmount": 11038.10,
+      "unmappedSku": false,
+      "itemReasons": [],
+      "mismatchedCells": {
+        "priceMismatch": false,
+        "mrpMismatch": false,
+        "qtyMismatch": false
+      }
+    }
+  ],
+  "linkedDocs": {
+    "pos": [{ "_id": "po1", "poNumber": "CI4PO05788", "poDate": "2026-03-17T00:00:00.000Z", "vendorName": "M/s AFP" }],
+    "grns": [{ "_id": "grn1", "grnNumber": "CI4000020234", "grnDate": "2026-03-24T00:00:00.000Z" }],
+    "invoices": [{ "_id": "inv1", "invoiceNumber": "IN25MH2504251", "invoiceDate": "2026-03-24T00:00:00.000Z" }]
+  }
+}

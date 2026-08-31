@@ -1,0 +1,14 @@
+{
+  "documentType": "po",
+  "header": {
+    "poNumber": "CI4PO05788",
+    "poDate": "2026-03-17",
+    "vendorName": "M/s AFP"
+  },
+  "items": [
+    { "itemCode": "11423", "description": "psm Cheesy Spicy Veg Momos 24.0 Pieces", "quantity": 50, "unitRate": 220.762, "mrp": 305.00 },
+    { "itemCode": "11797", "description": "Meatigo Hot Wings 250.0 g", "quantity": 75, "unitRate": 126.667, "mrp": 175.00 },
+    { "itemCode": "18003", "description": "Meatigo Chicken Curry Cut Skinless Frozen 450.0 g", "quantity": 120, "unitRate": 141.143, "mrp": 195.00 },
+    { "itemCode": "18004", "description": "Meatigo Chicken Boneless Breast Frozen 450.0 g", "quantity": 540, "unitRate": 199.048, "mrp": 275.00 }
+  ]
+}
